@@ -13,7 +13,12 @@
 /widget/ads.
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
-
+events3alt.adcolony.com
+wd.adcolony.com
+o2.mouseflow.com
+tools.mouseflow.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
 pagead2.googlesyndication.com
 adservice.google.com
 afs.googlesyndication.com
