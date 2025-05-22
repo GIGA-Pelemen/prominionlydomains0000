@@ -7,7 +7,7 @@
 # Last modified: 21 May 2025 02:04 UTC
 # Version: 2025.0521.0204.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 56093
+# Number of entries: 56150
 #
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
